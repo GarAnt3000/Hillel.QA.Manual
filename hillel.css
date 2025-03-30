@@ -1,0 +1,25 @@
+body {
+  background-color: rebeccapurple;
+}
+h1 {
+  color: pink;
+  font-size: 228;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: medium;
+  text-align: left;
+}
+img {
+  padding-left: 20x;
+  width: 15%;
+  height: 15%;
+  align-content: center;
+}
+.introduce {
+  text-align: left;
+  text-decoration-line: underline;
+  text-emphasis-color: yellow;
+}
